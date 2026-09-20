@@ -1,8 +1,11 @@
 # Web-Labs
 
 **Course:** CS471 – Web Technologies
+
 **Class:** 5532
+
 **Name:** Marah Alshebel
+
 **ID:** 441203542
 
 ## Repository Structure

@@ -1,5 +1,4 @@
 # Web-Labs
-# Web-Labs
 
 **Course:** CS471 – Web Technologies
 **Class:** 5532

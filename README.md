@@ -37,10 +37,11 @@ Web-Labs/
 - [Data transfer screenshot](Lab1/data_transfer.png)
 - [TCP vs UDP comparison tables (PDF)](Lab1/Lab1_Tables%20.pdf)
 
-## Lab 2 Contents
+### Lab 2 Contents
 
-- Django web development framework
-- Django project setup and configuration
+- [Django web development framework](Lab2/)
+- [Django project setup and configuration](Lab2/libraryproject/)
 - Basic Git and GitHub operations
 - Remote repository setup and GitHub upload
-- Screenshots of the commands
+- [Screenshots of the commands](Lab2/Screenshots%20of%20the%20Commands/)
+

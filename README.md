@@ -41,7 +41,7 @@ Web-Labs/
 
 - [Django web development framework](Lab2/)
 - [Django project setup and configuration](Lab2/libraryproject/)
-- Basic Git and GitHub operations
-- Remote repository setup and GitHub upload
-- [Screenshots of the commands](Lab2/Screenshots%20of%20the%20Commands/)
+- [Basic Git and GitHub operations](Lab2/Screenshots%20of%20the%20Commands.pdf)
+- [Remote repository setup and GitHub upload](Lab2/Screenshots%20of%20the%20Commands.pdf)
+- [Screenshots of the commands](Lab2/Screenshots_of_the_Commands/)
 

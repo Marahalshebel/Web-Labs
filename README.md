@@ -41,6 +41,8 @@ Web-Labs/
 
 - [Django web development framework](Lab2/)
 - [Django project setup and configuration](Lab2/libraryproject/))
-- [Screenshots of the commands](Lab2/Screenshots_of_the_Commands.pdf)
+- [Screenshots of the commands](Lab2/Screenshots%20of%20the%20Commands.pdf)
+
+
 
 

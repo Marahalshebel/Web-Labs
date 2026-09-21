@@ -23,7 +23,7 @@ Web-Labs/
     ├── manage.py
     ├── db.sqlite3
     └── Screenshots of the Commands.pdf
-
+```
 ## Labs
 
 | Lab | Topic | Files |

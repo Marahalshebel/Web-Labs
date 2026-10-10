@@ -1,0 +1,102 @@
+#links-container {
+    width: 100%;
+    text-align: center;
+}
+
+.link-box {
+    display: block;
+    padding: 15px;
+    text-align: center;
+}
+
+.first-link {
+    background-color: lightgreen;
+}
+
+.second-link {
+    background-color: #555555;
+}
+
+.third-link {
+    background-color: black;
+}
+
+.link-box a:link {
+    color: orange;
+}
+
+.link-box a:visited {
+    color: purple;
+}
+
+.link-box a:hover {
+    color: red;
+}
+
+.link-box a:active {
+    color: yellow;
+}
+/* Task 2 - Text Formatting */
+
+h1 {
+    color: green;
+    background-color: #f5f5dc;
+    padding: 10px;
+}
+
+/* Task 3 - Nested Lists */
+
+.listing-title {
+    color: white;
+    background-color: cadetblue;
+    padding: 10px;
+}
+
+/* Task 4 - Tables */
+
+.fruit-table {
+    border-collapse: collapse;
+    margin: 20px auto;
+}
+
+.fruit-table th,
+.fruit-table td {
+    border: 1px solid gray;
+    padding: 3px;
+    text-align: center;
+}
+
+.fruit-table caption {
+    margin-bottom: 5px;
+}
+
+.camel-table {
+    border-collapse: collapse;
+    width: 75%;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.camel-table th,
+.camel-table td {
+    border: 1px solid gray;
+    padding: 5px;
+}
+
+.camel-table caption {
+    margin-bottom: 5px;
+}
+
+.camel-image {
+    width: 200px;
+}
+
+.camel-image img {
+    width: 180px;
+    height: 150px;
+    object-fit: cover;
+}
+
+.comparison-heading {
+    height: 70px;
+}

@@ -1,0 +1,31 @@
+{% extends "layouts/base.html" %}
+{% load static %}
+
+{% block title %}
+Show One Book
+{% endblock title %}
+
+{% block content %}
+
+<div class="topnav">
+    <a href="{% url 'books.list_books' %}">Go Back</a>
+</div>
+
+<h1>Details of Book1</h1>
+
+<h2>Hands-On Programming with R</h2>
+
+<h2>Author: Garrett Grolemund</h2>
+
+<p>
+    <strong>Hands-On Programming with R</strong>
+    teaches beginners how to write their own functions
+    and simulations using the R programming language.
+</p>
+
+<img src="{% static 'book1.jpg' %}"
+     alt="Hands-On Programming with R"
+     width="200"
+     height="200">
+
+{% endblock content %}
